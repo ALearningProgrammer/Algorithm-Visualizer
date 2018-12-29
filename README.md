@@ -1,5 +1,7 @@
 # Algorithm Visualizer
 
+This line indicates that it is changed by me.
+
 > Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/algorithm-visualizer)
